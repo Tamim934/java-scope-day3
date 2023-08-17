@@ -8,6 +8,7 @@
 ### 4 mudle scope is used for making sevral js files and conecting them in one and we cant use same varaible names 
 ## reminder let and const is local but var is globaly 
 ## hoisting
+![App Screenshot](https://th.bing.com/th/id/R.40db864c4b17d8370d1b4acb1581cc64?rik=OkC3vuWE5hYFVw&pid=ImgRaw&r=0)
 ### hoisting in js is puting consol log before its varaible like calling somebefore even nameing it !
 ### we can use hoisting in Function they work 100% 
 ### hoisting in var is undefined  
