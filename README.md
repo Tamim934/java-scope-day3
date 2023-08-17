@@ -11,3 +11,4 @@
 ### we can use hoisting in Function they work 100% 
 ### hoisting in var is undefined  
 ### hoisting in let and const is  tecnically yes but not in practice  or oder name TDZ
+![}(https://th.bing.com/th/id/OIP.qRxRHKUDZIxoINqzLszqowHaFj?w=232&h=180&c=7&r=0&o=5&pid=1.7)
